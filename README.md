@@ -1,6 +1,5 @@
 # Note-about-Java
-資料型態 Data Types
-===
+## 資料型態 Data Types
 整數
 : byte, short, int, long
 浮點數
