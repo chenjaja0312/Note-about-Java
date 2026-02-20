@@ -1,5 +1,5 @@
 # Note-about-Java
-### 資料型態 Data Types
+### DataTypeVariable 資料型態 
 1. 整數 : byte (-128-127), short (-32768-32768), **int** (-2147483648-2147483647), long (-9223372036854775808-9223372036854775808)  
 2. 浮點數 : float (到小數點下7位), **double** (到小數點下15位)  
 3. 布林值 : boolean (true/false)  
@@ -16,4 +16,19 @@ steps:
      y=3.5 (變數名稱=資料)
 - 使用變數(代替資料)  
    - 印出資料 System.out.println(任意資料);  
+
+### DataTypeConversion 資料型態轉換
+1. 範圍: double>float>long>int>short>byte
+- 小->大: 自動轉換
+- 大->小: error
+2. 字串-> 數字
+  轉成int型態: Integer.parseInt("字串")
+  轉成long型態: Long.parseLong("字串")
+3. 數字-> 字串
+  String.valueOf(數字)
+
+  
+  
+
+
 
