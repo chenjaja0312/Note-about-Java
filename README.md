@@ -22,10 +22,10 @@ steps:
 - 小->大: 自動轉換
 - 大->小: error
 2. 字串-> 數字
-  轉成int型態: Integer.parseInt("字串")
-  轉成long型態: Long.parseLong("字串")
+- 轉成int型態: Integer.parseInt("字串")
+- 轉成long型態: Long.parseLong("字串")
 3. 數字-> 字串
-  String.valueOf(數字)
+- String.valueOf(數字)
 
   
   
