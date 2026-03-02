@@ -54,6 +54,16 @@ switch(變數名稱){
    default: //如果變數中的資料和比對資料不相同  
       break;  
 }
+//記得要縮排
+
+### 使用者輸入
+import java.util.Scanner;  
+//建立一個Scanner 物件  
+Scanner s = new Scanner(System.in);  
+//取得使用者輸入的整數  
+int x=s.nextlnt();  
+//取得使用者輸入的任意文字  
+String text = s.next();  
 
 
 
