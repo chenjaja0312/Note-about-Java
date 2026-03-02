@@ -59,7 +59,7 @@ switch(變數名稱){
 ### 使用者輸入
 import java.util.Scanner;  
 //建立一個Scanner 物件  
-Scanner s = new Scanner(System.in);  
+Scanner s = new Scanner(System.in); //這邊是指 s 的資料型態為Scanner
 //取得使用者輸入的整數  
 int x=s.nextlnt();  
 //取得使用者輸入的任意文字  
