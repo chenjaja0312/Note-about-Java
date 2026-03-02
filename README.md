@@ -45,7 +45,7 @@ steps:
 ### Conditional Statement 判斷式
 if(布林值){如果成立 就執行這裡}  
 else if(布林值){如果成立 就執行這裡}  
-else{布成立 執行此區}  
+else{不成立 是指不是true 執行此區}  
 
 switch(變數名稱){  
    case 比對的資料: //如果變數中的資料和比對資料相同 則執行此程式  
