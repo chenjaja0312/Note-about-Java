@@ -43,8 +43,11 @@ steps:
 - 暫不討論
 
 ### Conditional Statement 判斷式
-1. if(布林值){如果成立 就執行這裡}  else if(布林值){如果成立 就執行這裡}  else{布成立 執行此區}  
+if(布林值){如果成立 就執行這裡}  
+else if(布林值){如果成立 就執行這裡}  
+else{布成立 執行此區}  
 
+3. switch 
 
 
 
